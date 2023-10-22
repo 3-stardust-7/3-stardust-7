@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @3-stardust-7
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning CSE
-- 💞️ I’m looking to collaborate on web development and more
+
   
 
 <!---
