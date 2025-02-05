@@ -1,16 +1,18 @@
-## Hi there 👋
+### Welcome to Kirubha's GitHub Space!
+## Hey there! 👋 I'm <your-name>, a passionate developer and ML enthusiast.
 
-<!--
-**3-stardust-7/3-stardust-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🔭 Currently working on Hear-Us-Out – a platform connecting citizens, NGOs, and authorities for civic issue resolution.
+📚 Learning and experimenting with Machine Learning, diving into scikit-learn, NumPy, pandas, and Matplotlib.
+💡 Love building web apps with React, TailwindCSS, and Supabase.
+🔬 Always exploring new tech and improving my skills.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+Languages:JavaScript,
+Frameworks/Libraries: React, TailwindCSS
+Databases: Supabase
+Tools: Jupyter Notebook, Git, Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+🔗 GitHub: github.com/3-stardust-7
+📧 Email: your-vkirubha7@gmail.com
