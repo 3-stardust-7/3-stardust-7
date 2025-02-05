@@ -14,8 +14,12 @@
 - 📸 [Instagram](https://instagram.com/3._stardust_.7)  
 
 ### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=3-stardust-7&show_icons=true&theme=tokyonight" width="400" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3-stardust-7&layout=compact&theme=gruvbox" width="400" height="180">
+<div style="display: inline-block; margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=3-stardust-7&show_icons=true&theme=tokyonight" width="400" height="180">
+</div>
+<div style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3-stardust-7&layout=compact&theme=gruvbox" width="400" height="180">
+</div>
 
 
 ### 🔧 Tech Suite
