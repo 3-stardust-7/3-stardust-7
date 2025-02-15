@@ -2,6 +2,8 @@
 
  <h1 align="center"> Hey there! 👋 I'm Kirubha, a passionate developer and ML enthusiast. </h1>
 
+ ![Profile Views](https://komarev.com/ghpvc/?username=3-stardust-7&label=Profile%20Views&color=blue&style=flat)
+
 ### 🚀 About Me  
 - 🔭 Currently working on **Hear-Us-Out** – a platform connecting citizens, NGOs, and authorities for civic issue resolution.  
 - 📚 Learning and experimenting with **Machine Learning**, diving into **scikit-learn, NumPy, pandas, and Matplotlib**.  
@@ -11,7 +13,7 @@
 - ### 📫 Connect With Me  
 - 🔗 GitHub: [github.com/3-stardust-7](https://github.com/3-stardust-7)  
 - 📧 Email: vkirubha7@gmail.com
-- 📸 [Instagram](https://instagram.com/3._stardust_.7)
+- 📸 Instagram: [click here](https://instagram.com/3._stardust_.7)
   
 <br>
 
