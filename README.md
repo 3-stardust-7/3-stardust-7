@@ -1,8 +1,7 @@
-<img src="./assets/codeRed.png" alt="Git Screenshot" width=full />
-
- <h2 align="center">🏆 Welcome to 3-stardust-7's GitHub Space!</h2>
+<h2 align="center">🏆 Welcome to 3-stardust-7's GitHub Space!</h2>
 
  <h1 align="center"> Hey there! 👋 I'm Kirubha, a passionate developer and ML enthusiast. </h1>
+ <img src="./assets/codeRed.png" alt="Git Screenshot" width=full />
 
  ![Profile Views](https://komarev.com/ghpvc/?username=3-stardust-7&label=Profile%20Views&color=blue&style=flat)
 
