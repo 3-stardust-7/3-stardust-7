@@ -1,4 +1,8 @@
- <img src="./assets/git.png" alt="Git Screenshot" width=full/>
+<video width="600" controls>
+  <source src="./assets/sparkle.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
  <h2 align="center">🏆 Welcome to 3-stardust-7's GitHub Space!</h2>
 
  <h1 align="center"> Hey there! 👋 I'm Kirubha, a passionate developer and ML enthusiast. </h1>
