@@ -1,4 +1,4 @@
-<img src="./assets/codeRed.png" alt="Git Screenshot" width=full height="200"/>
+<img src="./assets/codeRed.png" alt="Git Screenshot" width=full height="400"/>
 
  <h2 align="center">🏆 Welcome to 3-stardust-7's GitHub Space!</h2>
 
