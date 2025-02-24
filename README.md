@@ -1,3 +1,4 @@
+ <img src="./assets/git.png" alt="Git Screenshot" width=full/>
  <h2 align="center">🏆 Welcome to 3-stardust-7's GitHub Space!</h2>
 
  <h1 align="center"> Hey there! 👋 I'm Kirubha, a passionate developer and ML enthusiast. </h1>
