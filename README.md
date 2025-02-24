@@ -1,7 +1,4 @@
-<video width="600" controls>
-  <source src="./assets/sparkle.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="./assets/codeRed.png" alt="Git Screenshot" width=full height="200"/>
 
  <h2 align="center">🏆 Welcome to 3-stardust-7's GitHub Space!</h2>
 
