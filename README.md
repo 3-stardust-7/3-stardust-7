@@ -25,6 +25,32 @@
 </p>
 
 ### 🔧 Tech Suite
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react) ![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase) ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-orange?style=for-the-badge&logo=firebase) ![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwind-css) ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git) ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+## 🚀 Frontend
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+</div>
+
+## 🛠️ Backend
+<div align="center">
+
+![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-orange?style=for-the-badge&logo=firebase)
+
+</div>
+
+## 📚 Tools / Others
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+
+</div>
 
 
