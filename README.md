@@ -26,6 +26,9 @@ Built with React Native (frontend), Express.js and FastAPI (backend), Supabase (
   <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=3-stardust-7&show_icons=true&theme=tokyonight"/>
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3-stardust-7&layout=compact&theme=gruvbox"/>
 </p>
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3-stardust-7&count_private=true&theme=tokyonight" alt="GitHub Streak" />
+ </p>
 
 <br>
 
