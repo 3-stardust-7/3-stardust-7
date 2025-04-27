@@ -6,25 +6,31 @@
  ![Profile Views](https://komarev.com/ghpvc/?username=3-stardust-7&label=Profile%20Views&color=blue&style=flat)
 
 ### 🚀 About Me  
-- 🔭 Currently working on **Hear-Us-Out** – a platform connecting citizens, NGOs, and authorities for civic issue resolution.  
+- 🎼 Currently working on **Noctune** — a free music streaming app with global search, custom playlists, and unlimited listening.
+Built with React Native (frontend), Express.js and FastAPI (backend), Supabase (database), and Cloudflare for cloud services, using WebSockets for real-time updates.Stay tuned for more!
+- 🔭 Worked on **Hear-Us-Out** – a platform connecting citizens, NGOs, and authorities for civic issue resolution.  
 - 📚 Learning and experimenting with **Machine Learning**, diving into **scikit-learn, NumPy, pandas, and Matplotlib**.  
 - 💡 Love building web apps with **React, TailwindCSS, and Supabase**.  
 - 🔬 Always exploring new tech and improving my skills.  
 
-- ### 📫 Connect With Me  
-- 🔗 GitHub: [github.com/3-stardust-7](https://github.com/3-stardust-7)  
+### 📫 Connect With Me    
 - 📧 Email: vkirubha7@gmail.com
-- 📸 Instagram: [click here](https://instagram.com/3._stardust_.7)
+<br><br>
+- <a href="https://www.linkedin.com/in/k%C3%ADr%C3%BCbh%C3%A3-v-b5a873292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subru-37" height="30" width="40" /></a>
+<a href="https://instagram.com/3._stardust_.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subru_37" height="30" width="40" /></a>
   
 <br>
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3-stardust-7&show_icons=true&theme=tokyonight" width="48%" height="30%" style="margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3-stardust-7&layout=compact&theme=gruvbox" width="48%" height="30%">
+  <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=3-stardust-7&show_icons=true&theme=tokyonight"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3-stardust-7&layout=compact&theme=gruvbox"/>
 </p>
 
-### 🔧 Tech Suite
+<br>
+
+<h1 align="center"> 🔧 Tech Suite</h1>
+
 ## 🚀 Frontend
 <div align="center">
 
