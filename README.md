@@ -20,8 +20,8 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3-stardust-7&show_icons=true&theme=tokyonight" width="48%" height="190" style="margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3-stardust-7&layout=compact&theme=gruvbox" width="48%" height="185">
+  <img src="https://github-readme-stats.vercel.app/api?username=3-stardust-7&show_icons=true&theme=tokyonight" width="48%" height="30%" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3-stardust-7&layout=compact&theme=gruvbox" width="48%" height="30%">
 </p>
 
 ### 🔧 Tech Suite
