@@ -64,7 +64,7 @@ Built with React Native (frontend), Express.js and FastAPI (backend), Supabase (
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![BERT](https://img.shields.io/badge/BERT_Model-blueviolet?style=for-the-badge&logo=pytorch)
 
 </div>
 
