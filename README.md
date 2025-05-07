@@ -40,8 +40,8 @@ Built with React Native (frontend), Express.js and FastAPI (backend), Supabase (
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Redux](https://img.shields.io/badge/React_Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
@@ -55,14 +55,16 @@ Built with React Native (frontend), Express.js and FastAPI (backend), Supabase (
 
 ![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-orange?style=for-the-badge&logo=firebase)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 
 </div>
+
 
 ## 📚 Tools / Others
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT_Model-blueviolet?style=for-the-badge&logo=pytorch)
 
