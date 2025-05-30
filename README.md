@@ -52,17 +52,15 @@ Built with React Native (frontend), Express.js and FastAPI (backend), Supabase (
 
 </div>
 
-
-
 ## 🛠️ Backend
 <div align="center">
 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Supabase](https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-orange?style=for-the-badge&logo=firebase)
 ![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 
 </div>
-
 
 ## 📚 Tools / Others
 <div align="center">
@@ -73,5 +71,3 @@ Built with React Native (frontend), Express.js and FastAPI (backend), Supabase (
 ![BERT](https://img.shields.io/badge/BERT_Model-blueviolet?style=for-the-badge&logo=pytorch)
 
 </div>
-
-
