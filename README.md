@@ -30,6 +30,10 @@ Built with React Native (frontend), Express.js and FastAPI (backend), Supabase (
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3-stardust-7&count_private=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3-stardust-7&custom_title=Annual%20Contribution%20Graph&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 <!-- <div align="center" style="margin-left: 5%; margin-right: 5%; text-align: center;">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=3-stardust-7&theme=dracula&no-frame=true&title=PullRequest,Commits,Issues" 
