@@ -31,9 +31,16 @@ Built with React Native (frontend), Express.js and FastAPI (backend), Supabase (
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3-stardust-7&count_private=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=3-stardust-7&custom_title=Annual%20Contribution%20Graph&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+<div align="center" style="padding: 20px;">
+<!--   <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=3-stardust-7&custom_title=Rolling%2030‑Day%20Contributions&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" 
+    alt="Contribution Graph" 
+  /> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=3-stardust-7&custom_title=Rolling%2030‑Day%20Commits&bg_color=0D1117&color=C084FC&line=C084FC&point=E879F9&area_color=A78BFA&title_color=E9D5FF&area=true&hide_border=false" />
+ <!-- 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=3-stardust-7&custom_title=Rolling%2030‑Day%20Commits&bg_color=0D1117&color=E0F2FE&line=7DD3FC&point=38BDF8&area_color=BAE6FD&title_color=E0F2FE&area=true&hide_border=true" /> -->
 </div>
+
 <!-- <div align="center" style="margin-left: 5%; margin-right: 5%; text-align: center;">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=3-stardust-7&theme=dracula&no-frame=true&title=PullRequest,Commits,Issues" 
