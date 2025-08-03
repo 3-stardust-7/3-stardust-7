@@ -8,9 +8,10 @@
 ### 🚀 About Me  
 - 🎼 Currently working on **Noctune** — a free music streaming app with global search, custom playlists, and unlimited listening.
 Built with React Native (frontend), Express.js and FastAPI (backend), Supabase (database), and Cloudflare for cloud services, using WebSockets for real-time updates.Stay tuned for more!
+- Developed the official website repository for **Nandana Surgicare** [_(link)_](https://nandanasurgicare.com), a company dedicated to delivering high-quality medical and surgical equipment. 
 - 🔭 Worked on **Hear-Us-Out** – a platform connecting citizens, NGOs, and authorities for civic issue resolution.  
 - 📚 Learning and experimenting with **Machine Learning**, diving into **scikit-learn, NumPy, pandas, and Matplotlib**.  
-- 💡 Love building web apps with **React, TailwindCSS, and Supabase**.  
+- 💡 Love building web apps with **React, TailwindCSS, and Supabase** and developing mobile apps with **React Native** and **Redux** .  
 - 🔬 Always exploring new tech and improving my skills.  
 
 ### 📫 Connect With Me    
