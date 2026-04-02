@@ -72,9 +72,10 @@ Built with React Native (frontend), Express.js and FastAPI (backend), Supabase (
 ## 🛠️ Backend
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
 </div>
 
