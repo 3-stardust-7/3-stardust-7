@@ -1,0 +1,63 @@
+
+<svg width="100%" height="220" viewBox="0 0 900 220"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="900" height="220" fill="#080b18"/>
+
+  <!-- Twinkling stars -->
+  <circle cx="80" cy="45" r="2" fill="#06b6d4">
+    <animate attributeName="opacity" values="0.2;1;0.2"
+             dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="190" cy="120" r="2.5" fill="#38bdf8">
+    <animate attributeName="opacity" values="1;0.1;1"
+             dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="310" cy="65" r="2" fill="#a78bfa">
+    <animate attributeName="opacity" values="0.1;1;0.1"
+             dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="450" cy="160" r="3" fill="#c084fc">
+    <animate attributeName="opacity" values="0.2;1;0.2"
+             dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="580" cy="50" r="2" fill="#818cf8">
+    <animate attributeName="opacity" values="1;0.1;1"
+             dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="700" cy="130" r="2.5" fill="#d946ef">
+    <animate attributeName="opacity" values="0.1;1;0.1"
+             dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="830" cy="55" r="2" fill="#e879f9">
+    <animate attributeName="opacity" values="1;0.1;1"
+             dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Sparkle -->
+  <g fill="#ffffff">
+    <path d="M250 35 L254 47 L266 51 L254 55 L250 67 L246 55 L234 51 L246 47Z">
+      <animate attributeName="opacity" values="0.2;1;0.2"
+               dur="2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M650 155 L654 167 L666 171 L654 175 L650 187 L646 175 L634 171 L646 167Z">
+      <animate attributeName="opacity" values="1;0.2;1"
+               dur="2.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+</svg>
